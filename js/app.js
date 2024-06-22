@@ -28,4 +28,5 @@ function limpar(){
       Como eu quero atualizar constantemente essa variável, ou seja, não quero
       que ela zere toda vez que eu apertar o botão 'adicionar', declaro a variável
       como global, não como local, assim, o valor obtido no botão é armazenado no código inteiro :)
+      Muito obrigado pela atenção!!!
 */
